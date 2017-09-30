@@ -10,7 +10,10 @@ September 29, 2017
 Jonathan Rodberg
 
 ## Project Description:
-THis assignment was accessing what we learned from Lesson 3. Lesson 3 was about Version Control Systems and Git. 
+This assignment was accessing what we learned from Lesson 3. Lesson 3 was about Version Control Systems and Git.
+
+## View Project:
+https://jrr15f.github.io/lesson3_VersionControl/
 
 ## Lessons Learned in the Assignment:
 1. A Version Control System record files over time.
