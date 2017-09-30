@@ -1,6 +1,5 @@
 # Project Name:  Lesson 3 Version Control
 
-
 ## Course Title:
 Web Application Development
 
@@ -11,10 +10,11 @@ September 29, 2017
 Jonathan Rodberg
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+THis assignment was accessing what we learned from Lesson 3. Lesson 3 was about Version Control Systems and Git. 
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
-
+1. A Version Control System record files over time.
+2. A Local Version Control System is used to save a file on a local system (personal computer).
+3. A Centralized Version Control System is used to let more than one person access a file.
+4. A Distributed Version Control System is used like a CVCS except it stores a copy of the files on the computer of everyone who accesses them.
+5. Git is different from other VCS in the way it saves. It only saves changes, not entire files.
